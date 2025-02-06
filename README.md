@@ -12,8 +12,8 @@ I finished my Master degree in Information Systems from the University of Techno
 
 ## Education:
 
-Master degree in Information Systems, (completed in July 2012)
-Bachelor of Information Technology, 2007
+- Master degree in Information Systems, (completed in July 2012)
+- Bachelor of Information Technology, 2007
 
 ## Working at Phoenix Software Development (January 2023 - now)
 
