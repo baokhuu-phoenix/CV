@@ -27,6 +27,22 @@ Java Developer, Team Leader and Project Manager;
 
 I focus on software projects, customer-facing assignments and startups. End-to-end quality control, backlog management and Agile team creation are my strengths. I have extensive international experience, with an emphasis on the developing projects for Europe, US, Australia and HongKong clients. My experience includes business development, strategy and general management.
 
+- Lead a team developing software applications.
+    - Back-end: Java, Python, NodeJS, etc.
+    - Front -end: ReactJS, Redux, Material-UI, etc.
+    - Mobile: iOS, Android, React-Natice, etc.
+- Served as Scrum Master in a Scaled Agile organization improving processes significantly 
+improving processes around DevOps and automated testing.
+    - Tools: Jenkins, Docker, ELK, Grafana, etc.
+    - Automation Testing: TestProject.
+- Delivered multiple product releases on or ahead of schedule while dealing with cuts in the 
+budget and changing requirements during the development cycle.
+- Included working with customers to define requirements, product architecture, functional 
+development, and testing.
+- Implemented significantly improved automated testing which reduced nightly test time.
+
+I always bring a deep commitment to success and lots of positive energy to my work, which I believe are the foundations of a successful project and happy customers.
+
 ## Work at Hong-Bang International University
 
 Position: Part-time lecturer.
